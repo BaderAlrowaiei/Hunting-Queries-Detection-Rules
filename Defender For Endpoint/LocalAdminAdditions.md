@@ -9,7 +9,7 @@
 | T1136.001 | Create Account: Local Account | https://attack.mitre.org/techniques/T1136/001/ |
 
 #### Description
-Adversaries may create a local accounts to maintain access to victim systems. This query lists all the locad admins that have been added in the seletect timeframe per device. 
+Adversaries may create a local accounts to maintain access to victim systems. This query lists all the local admins that have been added in the seletect timeframe per device. 
 
 #### Risk
 Local Admin accounts have high priviliges on and can should be limited.
